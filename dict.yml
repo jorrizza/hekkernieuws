@@ -1,0 +1,37 @@
+span.pagetop a:
+  Hacker News: Hekker Nieuws
+  new: nieuw
+  comments: reacties
+  ask: vraag
+  jobs: banen
+  submit: verzend
+
+td.subtext:
+  points: punten
+  point: punt
+  days: dagen
+  day: dag
+  hours: uren
+  hour: uur
+  minutes: minuten
+  minute: minuut
+  by: door
+  ago: geleden
+  discuss: bespreek
+  comments: reacties
+  comment: reactie
+
+span.comhead:
+  days: dagen
+  day: dag
+  hours: uren
+  hour: uur
+  minutes: minuten
+  minute: minuut
+  ago: geleden
+
+td.default a:
+  reply: reageer
+
+td.title a:
+  More: Meer
