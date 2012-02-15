@@ -35,3 +35,13 @@ td.default a:
 
 td.title a:
   More: Meer
+
+span.yclinks a:
+  Lists: Lijsten
+  Bookmarklet: Bladwijzer
+  FAQ: VGV
+  News: Nieuws
+  Feature Requests: Functionaliteitsaanvragen
+  Apply: Solliciteer
+  Library: Bibliotheek
+
