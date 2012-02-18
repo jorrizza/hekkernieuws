@@ -1,5 +1,5 @@
 span.pagetop a:
-  Hacker News: Hekker Nieuws
+  Hacker News: Hekkernieuws
   new: nieuw
   comments: reacties
   ask: vraag
@@ -13,8 +13,8 @@ td.subtext:
   day: dag
   hours: uren
   hour: uur
-  minutes: minuten
   minute: minuut
+  minuuts: minuten
   by: door
   ago: geleden
   discuss: bespreek
@@ -26,8 +26,8 @@ span.comhead:
   day: dag
   hours: uren
   hour: uur
-  minutes: minuten
   minute: minuut
+  minuuts: minuten
   ago: geleden
 
 td.default a:
@@ -46,3 +46,6 @@ span.yclinks a:
   Library: Bibliotheek
   Guidelines: Richtlijnen
 
+title:
+  Hacker News: Hekkernieuws
+  
